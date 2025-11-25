@@ -32,7 +32,7 @@ This portfolio website is designed to provide a clean and professional presentat
 
 - Mobirise (for creating a quick template)
 - HTML5
-- CSS (if applicable)
+- CSS
 - JavaScript
 
 ---
