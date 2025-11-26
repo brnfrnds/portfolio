@@ -1200,44 +1200,6 @@ a {
 .cid-v3BOpz35Wz .mbr-section-title {
   color: #fc5130;
 }
-.cid-v3BdnMDKkz .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-v3BdnMDKkz .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  background-image: url("../../../assets/images/background13.jpg");
-}
-.cid-v3BdnMDKkz .number-wrap {
-  color: #232323;
-  text-align: center;
-}
-.cid-v3BdnMDKkz .number {
-  color: #232323;
-}
-.cid-v3BdnMDKkz .period {
-  display: block;
-}
-.cid-v3BdnMDKkz .dot {
-  display: none;
-}
-@media (max-width: 767px) {
-  .cid-v3BdnMDKkz .period {
-    font-size: 0.8rem;
-  }
-}
-.cid-v3BdnMDKkz .btn {
-  height: 100%;
-  margin: 0;
-}
-.cid-v3BdnMDKkz .mbr-section-btn {
-  margin-bottom: 1.2rem;
-}
 .cid-sFF75ZhH2d {
   padding-top: 6rem;
   padding-bottom: 6rem;
